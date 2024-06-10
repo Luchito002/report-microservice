@@ -1,0 +1,10 @@
+com/zectia/report_microservice/controller/UserReportsController.class
+com/zectia/report_microservice/repository/UserReportsRepository.class
+com/zectia/report_microservice/model/DatabaseSequence.class
+com/zectia/report_microservice/ReportMicroserviceApplication.class
+com/zectia/report_microservice/service/impl/UserReportsServiceImpl.class
+com/zectia/report_microservice/dto/UserReportsDto.class
+com/zectia/report_microservice/model/UserReports.class
+com/zectia/report_microservice/service/UserReportsService.class
+com/zectia/report_microservice/utils/DtoEntityConverter.class
+com/zectia/report_microservice/utils/SequenceGeneratorService.class

@@ -1,0 +1,10 @@
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/ReportMicroserviceApplication.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/controller/UserReportsController.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/dto/UserReportsDto.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/model/DatabaseSequence.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/model/UserReports.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/repository/UserReportsRepository.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/service/UserReportsService.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/service/impl/UserReportsServiceImpl.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/utils/DtoEntityConverter.java
+/mnt/c/users/luis/Desktop/zectia/report-microservice/src/main/java/com/zectia/report_microservice/utils/SequenceGeneratorService.java
